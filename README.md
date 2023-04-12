@@ -7,4 +7,4 @@ Technologies used were, as previously mentioned fetch API and ReactJS, hooks (us
 
 This project has taught me how to implement API into the page, how to use  hooks in react and also some things about CSS like how to show modal component look good on click and better understanding of how to setup NavBar.
 
-All in all I am proud of this project because it was the most challenging on so far.
+All in all I am proud of this project because it was the most challenging one so far.
